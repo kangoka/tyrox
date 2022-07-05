@@ -1,0 +1,54 @@
+{
+  "lobby": {
+    "type": [{
+        "id": 0,
+        "name": "lobby_type_normal",
+        "balanced": true
+      },
+      {
+        "id": 1,
+        "name": "lobby_type_practice",
+        "balanced": true
+      },
+      {
+        "id": 2,
+        "name": "lobby_type_tournament",
+        "balanced": true
+      },
+      {
+        "id": 3,
+        "name": "lobby_type_tutorial"
+      },
+      {
+        "id": 4,
+        "name": "lobby_type_coop_bots"
+      },
+      {
+        "id": 5,
+        "name": "lobby_type_ranked_team_mm",
+        "balanced": true
+      },
+      {
+        "id": 6,
+        "name": "lobby_type_ranked_solo_mm",
+        "balanced": true
+      },
+      {
+        "id": 7,
+        "name": "lobby_type_ranked",
+        "balanced": true
+      },
+      {
+        "id": 8,
+        "name": "lobby_type_1v1_mid"
+      },
+      {
+        "id": 9,
+        "name": "lobby_type_battle_cup",
+        "balanced": true
+      }
+
+    ]
+  }
+
+}

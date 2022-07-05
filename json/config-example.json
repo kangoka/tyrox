@@ -1,0 +1,11 @@
+{
+    "token": "YOUR DISCORD BOT TOKEN",
+    "owner": "YOUR DISCORD USER ID",
+    "prefix": "t",
+    "connectionString": "YOUR MONGODB URI",
+    "trackgege": "TRACK.GG API",
+    "steamwapi": "STEAM API",
+    "report_hook": "YOUR TEXT CHANNEL WEBHOOK FOR REPORT COMMAND",
+    "clh_id": "YOUR TEXT CHANNEL WEBHOOK ID FOR COMMAND LOG",
+    "clh_token": "YOUR TEXT CHANNEL WEBHOOK TOKEN FOR COMMAND LOG"
+}
