@@ -20,6 +20,7 @@ Tyros is a Discord bot that I made using JavaScript and Discord.js (v13) while a
 4. Run `npm install`
 5. Rename `json/config-example.json` to `json/config.json`
 6. Fill the variable as you need, I think it's pretty much self-explanatory
+8. (Optional) You need to install font inside the `assets` folder if you want to use Splitgate and Valorant stats lookup
 7. Run `node index.js` or using pm2 `pm2 start index.js`
 # Useful Informations
 Some of you might don't know what to do, so here's some informations that you might needed:
@@ -36,5 +37,6 @@ Since my purpose making this bot is for the economy features, there's still lots
 - Add badges to reward the user (economy features) i.e when a user catches 1000 fish
 # Known Issue
 - [ ] The cooldown sometimes messed up, I tried to log the date and checking the data from mongodb and everything seems right but still, the cooldown sometimes messed up. If you know how to fix this, feel free to make a PR
+- [ ] Valorant stats lookup command is not working because source of the data make some changes
 # Credits
 - [reconlx - command handler](https://github.com/reconlx/djs-base-handler)
