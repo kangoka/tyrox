@@ -4,10 +4,15 @@
 
 # Tyrox
 Tyros is a Discord bot that I made using JavaScript and Discord.js (v13) while ago. The purpose is simple, I'm trying to make something fun to play with my friend when we have nothing to do and now I decided to make it open source so people can have the same experience as we do (I hope so).
+# Features
+- Economy
+- Music
+- Fun
+- Game stats lookup
 # Prerequisites
 - [Node.js](https://nodejs.org/en/) version 16.6.0 or higher
 - Discord bot token
-- MongoDB URI (make sure you named your collection to `users`
+- MongoDB URI (make sure you named your collection with `users`
 # Installation
 1. Git clone or download the code directly through GitHub
 2. Extract to a folder if you download it
