@@ -3,7 +3,7 @@
 </p>
 
 # Tyrox
-Tyros is a Discord bot that I made using JavaScript and Discord.js (v13) while ago. The purpose is simple, I'm trying to make something fun to play with my friend when we have nothing to do and now I decided to make it open source so people can have the same experience as we do (I hope so).
+Tyrox is a Discord bot that I made using JavaScript and Discord.js (v13) while ago. The purpose is simple, I'm trying to make something fun to play with my friend when we have nothing to do and now I decided to make it open source so people can have the same experience as we do (I hope so).
 # Features
 - Economy
 - Music
